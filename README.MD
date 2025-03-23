@@ -1,1 +1,1 @@
-Jesus is God.md /Jesus%20is%20God.md
+[Jesus is God](/Jesus%20is%20God.md)
