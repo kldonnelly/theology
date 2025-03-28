@@ -3,3 +3,5 @@
 explain if john 1.1 is misrepresenting genesis fo a hellenistic audience 
 
 [The Word](/TheWord.md)
+
+[Proverbs](/Proverbs.md)
