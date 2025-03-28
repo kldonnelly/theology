@@ -4,7 +4,7 @@ explain if john 1.1 is misrepresenting genesis fo a hellenistic audience
 
 [The Word](/TheWord.md)
 
-Deepseeks only concreate claim thats Rabbis should be familiar with the logos concept is proverbs 
+Deepseeks only concrete claim thats Rabbis should be familiar with the logos concept is proverbs 
 
 I tell Deepseek
 
