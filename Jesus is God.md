@@ -1,6 +1,7 @@
 The belief that Jesus is God is central to Christian theology and is rooted in several key aspects of the New Testament and early Christian teachings. Here are the primary reasons why Jesus is considered divine:
 
 1. **Biblical Testimony**: The New Testament, particularly the Gospels, contains numerous passages that affirm Jesus' divinity. For example:
+ https://www.biblegateway.com/passage/?search=John%201&version=NIV
    - In John 1:1, it states, "In the beginning was the Word, and the Word was with God, and the Word was God." Later in John 1:14, it says, "The Word became flesh and made his dwelling among us," referring to Jesus.
    - In John 10:30, Jesus says, "I and the Father are one," indicating a unity with God.
    - In John 20:28, Thomas addresses Jesus as "My Lord and my God!" after the resurrection.
