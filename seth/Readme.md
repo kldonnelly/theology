@@ -2,7 +2,7 @@ what does seth about self defensive killing?
 
 [DeepSeek Response included hallucinations or propaganda](/seth/self_defensive_killing_1.md)
 
-According to Seth Humans Killing never Lustified
+According to Seth Humans Killing never Justified
 
 my response
 
