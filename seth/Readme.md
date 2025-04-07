@@ -14,3 +14,7 @@ can't find your session 653 quote in actual source material
 tell me about AI hallucination
 
 [DeepSeek Response](/seth/self_defensive_killing_3.md)
+
+Best session about Killing
+
+[Session 634](/seth/session_634.md)
