@@ -1,7 +1,8 @@
 what does seth about self defensive killing? 
 
-[DeepSeek Response](/seth/self_defensive_killing_1.md)
+[DeepSeek Response included hallucinations or propaganda](/seth/self_defensive_killing_1.md)
 
+According to Seth Humans Killing never Lustified
 
 my response
 
