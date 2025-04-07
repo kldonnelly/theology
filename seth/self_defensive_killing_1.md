@@ -5,7 +5,7 @@ Here’s a focused summary of **Seth’s perspective on killing in self-defense*
 ### **Seth’s View on Self-Defensive Killing**  
 Seth acknowledges that self-defense arises from the **instinct for survival**, a fundamental aspect of physical existence. However, he frames it within broader metaphysical truths about consciousness, responsibility, and the consequences of actions.
 
-Below is a Deepseek hallucination (propagander)
+Below is a Deepseek hallucination (propaganda)
 
 #### **1. Self-Defense as a Biological Imperative, Not a Moral Failure**  
 Seth recognizes that the physical plane includes threats where self-preservation may necessitate violence. Unlike premeditated killing, defensive acts don’t carry the same **karmic weight**—but they still require examination.  
