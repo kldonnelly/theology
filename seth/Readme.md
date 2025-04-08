@@ -1,8 +1,8 @@
-what does seth about self defensive killing? 
+what does seth about killing in self-defense? 
 
 [DeepSeek Response included hallucinations or propaganda](/seth/self_defensive_killing_1.md)
 
-According to Seth Humans Killing never Justified
+According to Seth killing in self-defense never Justified
 
 my response
 
