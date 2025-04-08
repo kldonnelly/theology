@@ -18,3 +18,6 @@ tell me about AI hallucination
 Best session about Killing
 
 [Session 634](/seth/session_634.md)
+
+
+[Chat Response](/seth/ChatRespose_1.md)
