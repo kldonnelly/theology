@@ -1,4 +1,4 @@
-what does seth about killing in self-defense? 
+what does seth say about killing in self-defense? 
 
 [DeepSeek Response included hallucinations or propaganda](/seth/self_defensive_killing_1.md)
 
