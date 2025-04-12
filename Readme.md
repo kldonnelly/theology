@@ -1,7 +1,7 @@
 
 describe why jesus is thought as being God
 
-[Jesus is God](/Jesus%20is%20God.md)
+[Jesus is God](/JesusisGod.md)
 
 explain if john 1.1 is misrepresenting genesis fo a hellenistic audience 
 
