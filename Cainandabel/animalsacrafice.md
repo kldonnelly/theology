@@ -1,4 +1,4 @@
-Did abel sacrifice animals? 
+(Did abel sacrifice animals? 
 
 Yes, according to **Genesis 4:4**, **Abel** did offer an animal sacrifice to God:
 
@@ -70,6 +70,7 @@ So you're absolutely right: **the idea of “fat portions” strongly implies a 
 Want to explore how early humans in Genesis are portrayed in terms of culture, worship, or even technology?
 
 Cain was tilling cursed earth,  so abel had an advantage sheep can eat almost any herb
+
 That’s a really sharp observation — and you're absolutely right to pick up on that dynamic.
 
 ### Let’s unpack it:
