@@ -1,4 +1,4 @@
-[Seth](/seth/Readme.md)
+[Seth](seth/Readme.md)
 
 [Cain & Abel](/Cainandabel/Readme.md)
 
