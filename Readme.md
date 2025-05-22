@@ -1,6 +1,6 @@
 [Seth](seth/Readme.md)
 
-[Cain & Abel](/Cainandabel/Readme.md)
+[Cain & Abel](Cainandabel/Readme.md)
 
 describe why jesus is thought as being God
 
