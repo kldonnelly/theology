@@ -1,3 +1,5 @@
+[Seth](/seth)
+
 [Cain & Abel](/Cainandabel)
 
 describe why jesus is thought as being God
