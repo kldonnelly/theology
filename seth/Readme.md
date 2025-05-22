@@ -1,6 +1,6 @@
 what does seth say about killing in self-defense? 
 
-[DeepSeek Response included hallucinations or propaganda](seth/self_defensive_killing_1.md)
+[DeepSeek Response included hallucinations or propaganda](self_defensive_killing_1.md)
 
 According to Seth killing in self-defense never Justified
 
