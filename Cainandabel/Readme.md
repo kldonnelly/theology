@@ -1,1 +1,1 @@
-[Anaimal Sacrafice](/Cainandabel/animalsacrafice.md)
+[Anaimal Sacrafice](animalsacrafice.md)
