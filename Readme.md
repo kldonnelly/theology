@@ -6,7 +6,7 @@ describe why jesus is thought as being God
 
 [Jesus is God](/JesusisGod.md)
 
-explain if john 1.1 is misrepresenting genesis fo a hellenistic audience 
+explain if john 1.1 is misrepresenting genesis for a hellenistic audience 
 
 [The Word](/TheWord.md)
 
