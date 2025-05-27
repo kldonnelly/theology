@@ -1,4 +1,7 @@
 <meta property="og:image" content="/theology/repository-open-graph-template.png"/>
+<picture>
+<img src="/repository-open-graph-template.png" >
+</picture>
 
 [Seth](seth/Readme.md)
 
