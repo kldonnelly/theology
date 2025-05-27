@@ -1,4 +1,4 @@
-<meta property="og:image" content="preview.jpg"/>
+<meta property="og:image" content="repository-open-graph-template.png"/>
 
 [Seth](seth/Readme.md)
 
