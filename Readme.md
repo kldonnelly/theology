@@ -1,4 +1,5 @@
-<meta property og:image content= preview.jpg/>
+<meta property="og:image" content="preview.jpg"/>
+
 [Seth](seth/Readme.md)
 
 [Cain & Abel](Cainandabel/Readme.md)
