@@ -1,3 +1,8 @@
 plugins:
   - jekyll-seo-tag
   - jekyll-og-image
+
+
+  
+og_image:
+  image: "/theology/respository-open-graph-template.png"
