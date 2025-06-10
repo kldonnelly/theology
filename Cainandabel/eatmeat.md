@@ -1,5 +1,5 @@
 
-If cain and abel started  eating meat might they be reluctant to reveal that to God?
+>If Cain and Abel started  eating meat might they be reluctant to reveal that to God?
 
 
 That’s a *brilliant and nuanced* question — and one that gets into the psychology, spirituality, and anthropology of early Genesis.
